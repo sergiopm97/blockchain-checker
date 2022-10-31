@@ -7,9 +7,10 @@ import json
 
 
 class BlockchainChecker:
-    def __init__(self, l3_endpoint: str) -> None:
+    def __init__(self, l3_endpoint: str, tickers_endpoint: str) -> None:
         self.app_on = bool
         self.l3_endpoint = l3_endpoint
+        self.tickers_endpoint = tickers_endpoint
 
     def get_symbol_data(self) -> str:
 
@@ -141,6 +142,15 @@ class BlockchainChecker:
             return f"\n[OK] Data for {symbol} exported succesfully"
 
         return "\n[ERROR] The specified symbol was not found"
+
+    def get_all_symbols_statistics(self) -> str:
+
+        response = requests.get(self.tickers_endpoint)
+        response_json = response.json()
+
+        unique_symbol_values = [symbol["symbol"] for symbol in response_json]
+
+        return unique_symbol_values
 
     def exit_app(self) -> str:
         self.app_on = False

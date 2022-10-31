@@ -10,7 +10,10 @@ if __name__ == "__main__":
     config = configparser.ConfigParser()
     config.read("config/config.ini")
 
-    blockchain_checker = BlockchainChecker(config["API"]["l3"])
+    blockchain_checker = BlockchainChecker(
+        config["API"]["l3"], config["API"]["tickers"]
+    )
+
     blockchain_checker.app_on = True
 
     while blockchain_checker.app_on:
@@ -22,7 +25,8 @@ if __name__ == "__main__":
         print(title)
 
         print("\n[0] Get data from a symbol")
-        print("[1] Exit the app\n")
+        print("[1] Get data from all symbols")
+        print("[2] Exit the app\n")
 
         user_response = input("Select an option: ")
 
@@ -33,6 +37,10 @@ if __name__ == "__main__":
             time.sleep(2)
 
         elif user_response == "1":
+            print(blockchain_checker.get_all_symbols_statistics())
+            time.sleep(2)
+
+        elif user_response == "2":
             print(blockchain_checker.exit_app())
 
         else:
