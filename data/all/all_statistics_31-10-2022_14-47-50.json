@@ -1,0 +1,1946 @@
+{
+    "TFUEL-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XLM-EUR": {
+        "bids": {
+            "count": 8,
+            "qty": 244453.02007929998,
+            "value": 27446.121130400476
+        },
+        "asks": {
+            "count": 12,
+            "qty": 344449.8901854,
+            "value": 54224.09168239941
+        }
+    },
+    "ALGO-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "EFI-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XTZ-USDT": {
+        "bids": {
+            "count": 2,
+            "qty": 6931.83918593,
+            "value": 10051.1668195985
+        },
+        "asks": {
+            "count": 22,
+            "qty": 10798.807077970001,
+            "value": 16172.316347169897
+        }
+    },
+    "XLM-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USDC-GBP": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "OGN-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CLOUT-USD": {
+        "bids": {
+            "count": 28,
+            "qty": 19004.83058723,
+            "value": 96369.91805909852
+        },
+        "asks": {
+            "count": 37,
+            "qty": 3875.9412795999997,
+            "value": 97528.38067217181
+        }
+    },
+    "STX-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CEUR-USDT": {
+        "bids": {
+            "count": 5,
+            "qty": 11827.14110218,
+            "value": 10230.598427176199
+        },
+        "asks": {
+            "count": 2,
+            "qty": 10205.73486477,
+            "value": 10205.73486477
+        }
+    },
+    "EOS-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "PAX-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BCH-USD": {
+        "bids": {
+            "count": 3,
+            "qty": 220.33016299999997,
+            "value": 25468.5130978888
+        },
+        "asks": {
+            "count": 13,
+            "qty": 351.96436148,
+            "value": 214334.3717650985
+        }
+    },
+    "DAI-EUR": {
+        "bids": {
+            "count": 7,
+            "qty": 144063.7497,
+            "value": 121661.56412781
+        },
+        "asks": {
+            "count": 8,
+            "qty": 120035.3458,
+            "value": 164091.27516252
+        }
+    },
+    "USDT-GBP": {
+        "bids": {
+            "count": 8,
+            "qty": 136364.9019,
+            "value": 118523.82829025999
+        },
+        "asks": {
+            "count": 7,
+            "qty": 135123.82249999998,
+            "value": 117682.77060855
+        }
+    },
+    "CRV-USDT": {
+        "bids": {
+            "count": 12,
+            "qty": 14854.27295502,
+            "value": 13436.786699290624
+        },
+        "asks": {
+            "count": 12,
+            "qty": 14706.124806939997,
+            "value": 13416.493941119566
+        }
+    },
+    "LINK-USDT": {
+        "bids": {
+            "count": 6,
+            "qty": 2432.9979906000003,
+            "value": 18880.551968910382
+        },
+        "asks": {
+            "count": 5,
+            "qty": 2280.9576810500002,
+            "value": 18623.60782481416
+        }
+    },
+    "CHZ-USD": {
+        "bids": {
+            "count": 9,
+            "qty": 147497.86066691,
+            "value": 32778.002562905036
+        },
+        "asks": {
+            "count": 11,
+            "qty": 130887.67736548999,
+            "value": 29222.972955586818
+        }
+    },
+    "APE-USD": {
+        "bids": {
+            "count": 11,
+            "qty": 2422.0100531900007,
+            "value": 11656.079323166834
+        },
+        "asks": {
+            "count": 15,
+            "qty": 2792.0939650000005,
+            "value": 14620.85449510737
+        }
+    },
+    "STX-USD": {
+        "bids": {
+            "count": 18,
+            "qty": 74506.20066047,
+            "value": 23507.683950819177
+        },
+        "asks": {
+            "count": 22,
+            "qty": 73583.07874361999,
+            "value": 25033.08728387306
+        }
+    },
+    "MATIC-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "WDGLD-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ETH-USD": {
+        "bids": {
+            "count": 53,
+            "qty": 462.39377456,
+            "value": 625485.6981343777
+        },
+        "asks": {
+            "count": 58,
+            "qty": 426.78168974000005,
+            "value": 734166.0331550885
+        }
+    },
+    "SNX-USD": {
+        "bids": {
+            "count": 3,
+            "qty": 4058.42364656,
+            "value": 10092.981618415466
+        },
+        "asks": {
+            "count": 9,
+            "qty": 4156.95378418,
+            "value": 10418.654496606265
+        }
+    },
+    "LEND-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XLM-PAX": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XRP-EUR": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XLM-USD": {
+        "bids": {
+            "count": 14,
+            "qty": 438787.04338009993,
+            "value": 43286.89644462082
+        },
+        "asks": {
+            "count": 26,
+            "qty": 441128.80258559994,
+            "value": 57173.047991088446
+        }
+    },
+    "BAT-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "LINK-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DGLD-BTC": {
+        "bids": {
+            "count": 15,
+            "qty": 72.10740452,
+            "value": 0.5428161876176001
+        },
+        "asks": {
+            "count": 17,
+            "qty": 126.97114936000001,
+            "value": 0.9876666693727101
+        }
+    },
+    "BCH-EUR": {
+        "bids": {
+            "count": 3,
+            "qty": 265.94698816,
+            "value": 10358.148598217598
+        },
+        "asks": {
+            "count": 9,
+            "qty": 92.66760072000001,
+            "value": 17303.496935927902
+        }
+    },
+    "BCH-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CLOUT-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BTC-USD": {
+        "bids": {
+            "count": 94,
+            "qty": 73.49005028,
+            "value": 1019488.4917732022
+        },
+        "asks": {
+            "count": 97,
+            "qty": 55.11629139,
+            "value": 1658319.3952521014
+        }
+    },
+    "BCH-ETH": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ETH-TRY": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "WLUNA-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "THETA-USD": {
+        "bids": {
+            "count": 4,
+            "qty": 8793.530364290002,
+            "value": 10267.59001785941
+        },
+        "asks": {
+            "count": 7,
+            "qty": 8652.596563950001,
+            "value": 10192.517198011154
+        }
+    },
+    "GALA-USD": {
+        "bids": {
+            "count": 2,
+            "qty": 292.70339378,
+            "value": 7.0616678755999995
+        },
+        "asks": {
+            "count": 21,
+            "qty": 3578.66631064,
+            "value": 1335.9502186384002
+        }
+    },
+    "CUSD-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BTC-TRY": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ALGO-USD": {
+        "bids": {
+            "count": 12,
+            "qty": 177292.213892,
+            "value": 63726.3403546379
+        },
+        "asks": {
+            "count": 55,
+            "qty": 127599.89388300001,
+            "value": 52292.59057101881
+        }
+    },
+    "ETH-EUR": {
+        "bids": {
+            "count": 11,
+            "qty": 38.3912464,
+            "value": 61997.6543313998
+        },
+        "asks": {
+            "count": 31,
+            "qty": 219.06800155999997,
+            "value": 399321.9979940703
+        }
+    },
+    "DOGE-USD": {
+        "bids": {
+            "count": 12,
+            "qty": 305943.1027741,
+            "value": 36168.33294706214
+        },
+        "asks": {
+            "count": 15,
+            "qty": 229972.98628830002,
+            "value": 32423.484193241162
+        }
+    },
+    "GRT-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "STX-USDT": {
+        "bids": {
+            "count": 17,
+            "qty": 77749.42217800001,
+            "value": 24583.3782565371
+        },
+        "asks": {
+            "count": 20,
+            "qty": 77053.23738159999,
+            "value": 55212.399210288146
+        }
+    },
+    "XRP-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XLM-ETH": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USD-GBP": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "YFI-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 6.56681474,
+            "value": 18709.111560699403
+        },
+        "asks": {
+            "count": 6,
+            "qty": 2.2602708199999997,
+            "value": 18668.298223953603
+        }
+    },
+    "BTC-PAX": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "UMA-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "WBTC-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "MKR-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "NEAR-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 16341.67671381,
+            "value": 50545.4468116161
+        },
+        "asks": {
+            "count": 11,
+            "qty": 15999.615538730002,
+            "value": 51073.82930430427
+        }
+    },
+    "CRV-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "TRX-USD": {
+        "bids": {
+            "count": 28,
+            "qty": 1844213.3392019996,
+            "value": 115596.84397502632
+        },
+        "asks": {
+            "count": 23,
+            "qty": 1810996.0136730003,
+            "value": 114888.29202489629
+        }
+    },
+    "UNI-USDT": {
+        "bids": {
+            "count": 5,
+            "qty": 3663.82545836,
+            "value": 25603.154503630016
+        },
+        "asks": {
+            "count": 8,
+            "qty": 4345.44295164,
+            "value": 30784.26142060426
+        }
+    },
+    "DOT-EUR": {
+        "bids": {
+            "count": 9,
+            "qty": 4567.72554277,
+            "value": 30275.0839410443
+        },
+        "asks": {
+            "count": 23,
+            "qty": 9791.936099590002,
+            "value": 80162.941845434
+        }
+    },
+    "BAT-USDT": {
+        "bids": {
+            "count": 12,
+            "qty": 48357.40854606999,
+            "value": 14435.812181726207
+        },
+        "asks": {
+            "count": 12,
+            "qty": 46887.22625995999,
+            "value": 14211.059777507204
+        }
+    },
+    "BCH-PAX": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DAI-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "UNI-USD": {
+        "bids": {
+            "count": 6,
+            "qty": 2460.24833342,
+            "value": 17169.722658437106
+        },
+        "asks": {
+            "count": 13,
+            "qty": 2723.3383135500003,
+            "value": 19342.514709313717
+        }
+    },
+    "TFUEL-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "SOL-USDT": {
+        "bids": {
+            "count": 13,
+            "qty": 932.4163434799999,
+            "value": 31278.3525890044
+        },
+        "asks": {
+            "count": 15,
+            "qty": 963.4307225799998,
+            "value": 32874.782755275024
+        }
+    },
+    "ETH-BTC": {
+        "bids": {
+            "count": 24,
+            "qty": 186.57629702000003,
+            "value": 10.94826453776604
+        },
+        "asks": {
+            "count": 23,
+            "qty": 231.91688240999997,
+            "value": 45.89607666758212
+        }
+    },
+    "WDGLD-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CELO-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USDC-EUR": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "XTZ-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "WBTC-USDT": {
+        "bids": {
+            "count": 15,
+            "qty": 0.96062608,
+            "value": 19774.993281403902
+        },
+        "asks": {
+            "count": 15,
+            "qty": 0.9421002999999999,
+            "value": 19503.535267904303
+        }
+    },
+    "MKR-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "LTC-USD": {
+        "bids": {
+            "count": 9,
+            "qty": 2051.18997026,
+            "value": 112100.44327974139
+        },
+        "asks": {
+            "count": 22,
+            "qty": 2028.34648307,
+            "value": 731294.8566507451
+        }
+    },
+    "LINK-USD": {
+        "bids": {
+            "count": 11,
+            "qty": 4155.503727439999,
+            "value": 33734.99259658912
+        },
+        "asks": {
+            "count": 11,
+            "qty": 4147.56416912,
+            "value": 33825.880560272344
+        }
+    },
+    "DOGE-USDT": {
+        "bids": {
+            "count": 7,
+            "qty": 475327.6596168,
+            "value": 51636.53872173411
+        },
+        "asks": {
+            "count": 4,
+            "qty": 86737.0011083,
+            "value": 14773.081743918769
+        }
+    },
+    "GRT-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "COMP-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 268.46315503999995,
+            "value": 13602.065390034399
+        },
+        "asks": {
+            "count": 13,
+            "qty": 202.28586259,
+            "value": 10523.7549395113
+        }
+    },
+    "CRV-USD": {
+        "bids": {
+            "count": 13,
+            "qty": 15010.852522270005,
+            "value": 13597.17589225006
+        },
+        "asks": {
+            "count": 18,
+            "qty": 14965.562679389997,
+            "value": 13649.006012106258
+        }
+    },
+    "CEUR-EUR": {
+        "bids": {
+            "count": 2,
+            "qty": 10200.74249914,
+            "value": 10200.74249914
+        },
+        "asks": {
+            "count": 4,
+            "qty": 10411.847325760002,
+            "value": 10524.067362101901
+        }
+    },
+    "GBP-USD": {
+        "bids": {
+            "count": 6,
+            "qty": 88397.8051,
+            "value": 101458.64433550001
+        },
+        "asks": {
+            "count": 7,
+            "qty": 88834.675,
+            "value": 102127.67773840998
+        }
+    },
+    "LTC-BTC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "EFI-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "EOS-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DAI-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "SOL-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BTC-GBP": {
+        "bids": {
+            "count": 23,
+            "qty": 21.2256411,
+            "value": 364862.22666159726
+        },
+        "asks": {
+            "count": 27,
+            "qty": 19.163246620000002,
+            "value": 691974.3798416281
+        }
+    },
+    "USDC-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "MKR-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 20.40168457,
+            "value": 18593.6921970488
+        },
+        "asks": {
+            "count": 14,
+            "qty": 20.3795626,
+            "value": 18775.419641398603
+        }
+    },
+    "SNX-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "LTC-TRY": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "UMA-USDT": {
+        "bids": {
+            "count": 2,
+            "qty": 4478.67951289,
+            "value": 10104.886055512417
+        },
+        "asks": {
+            "count": 2,
+            "qty": 4478.67951289,
+            "value": 10138.834877163932
+        }
+    },
+    "WBTC-USD": {
+        "bids": {
+            "count": 13,
+            "qty": 1.36647756,
+            "value": 28129.3706958798
+        },
+        "asks": {
+            "count": 20,
+            "qty": 1.89558413,
+            "value": 39495.74559677039
+        }
+    },
+    "UMA-USD": {
+        "bids": {
+            "count": 2,
+            "qty": 4478.68017651,
+            "value": 10103.991816729033
+        },
+        "asks": {
+            "count": 2,
+            "qty": 4478.68017651,
+            "value": 10137.940643448917
+        }
+    },
+    "UNI-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CELO-USD": {
+        "bids": {
+            "count": 2,
+            "qty": 13737.46324278,
+            "value": 10165.7227996572
+        },
+        "asks": {
+            "count": 2,
+            "qty": 13647.69175921,
+            "value": 10235.7688194075
+        }
+    },
+    "THETA-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "LTC-EUR": {
+        "bids": {
+            "count": 5,
+            "qty": 788.07296488,
+            "value": 29505.1536235198
+        },
+        "asks": {
+            "count": 10,
+            "qty": 543.9128962500001,
+            "value": 99676.4639552997
+        }
+    },
+    "SNX-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "WDGLD-DGLD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "THETA-USDT": {
+        "bids": {
+            "count": 2,
+            "qty": 8633.18409361,
+            "value": 10092.622429259465
+        },
+        "asks": {
+            "count": 2,
+            "qty": 8633.18409361,
+            "value": 10165.23028254565
+        }
+    },
+    "GRT-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DOT-USD": {
+        "bids": {
+            "count": 19,
+            "qty": 8651.58100595,
+            "value": 54378.830360088104
+        },
+        "asks": {
+            "count": 38,
+            "qty": 38436.21231442,
+            "value": 268833.1563674023
+        }
+    },
+    "EUR-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 26549.026,
+            "value": 26275.10643854
+        },
+        "asks": {
+            "count": 4,
+            "qty": 26527.7483,
+            "value": 26274.61244969
+        }
+    },
+    "XTZ-USD": {
+        "bids": {
+            "count": 13,
+            "qty": 11053.062518899998,
+            "value": 15988.4556790947
+        },
+        "asks": {
+            "count": 21,
+            "qty": 10776.06919024,
+            "value": 15833.5526956762
+        }
+    },
+    "USDT-TRY": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "RARE-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "COMP-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USDT-USD": {
+        "bids": {
+            "count": 17,
+            "qty": 276162.4431,
+            "value": 274785.39083563
+        },
+        "asks": {
+            "count": 17,
+            "qty": 340062.243,
+            "value": 449411.8594944
+        }
+    },
+    "LEND-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CELO-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USD-EUR": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ETH-GBP": {
+        "bids": {
+            "count": 4,
+            "qty": 23.64504787,
+            "value": 31174.761923514103
+        },
+        "asks": {
+            "count": 14,
+            "qty": 162.99736745,
+            "value": 230752.5694252079
+        }
+    },
+    "OGN-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ZRX-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "TFUEL-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BAT-USD": {
+        "bids": {
+            "count": 15,
+            "qty": 49342.5782878,
+            "value": 14707.94925579711
+        },
+        "asks": {
+            "count": 17,
+            "qty": 47008.79379290999,
+            "value": 14255.025294921817
+        }
+    },
+    "ADA-USD": {
+        "bids": {
+            "count": 21,
+            "qty": 384195.2537152,
+            "value": 113841.91846384878
+        },
+        "asks": {
+            "count": 27,
+            "qty": 56822.88403539,
+            "value": 24884.3414550773
+        }
+    },
+    "AAVE-USDT": {
+        "bids": {
+            "count": 5,
+            "qty": 219.54008973999998,
+            "value": 18591.5702712431
+        },
+        "asks": {
+            "count": 7,
+            "qty": 218.98101097,
+            "value": 18799.203685710298
+        }
+    },
+    "ADA-USDT": {
+        "bids": {
+            "count": 14,
+            "qty": 43960.20443370999,
+            "value": 17969.668575589934
+        },
+        "asks": {
+            "count": 13,
+            "qty": 81639.03021572999,
+            "value": 37706.0207720335
+        }
+    },
+    "APE-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "USDC-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ETH-PAX": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BCH-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ZRX-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "CUSD-USD": {
+        "bids": {
+            "count": 12,
+            "qty": 110126.69535806999,
+            "value": 104868.39359941118
+        },
+        "asks": {
+            "count": 12,
+            "qty": 110126.16194328999,
+            "value": 115392.53614555305
+        }
+    },
+    "ALGO-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "SUSHI-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ENJ-USD": {
+        "bids": {
+            "count": 8,
+            "qty": 58610.132738,
+            "value": 22688.941222383903
+        },
+        "asks": {
+            "count": 16,
+            "qty": 23793.629973,
+            "value": 11177.231798117498
+        }
+    },
+    "LTC-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DAI-GBP": {
+        "bids": {
+            "count": 7,
+            "qty": 120192.3733,
+            "value": 104475.25975571
+        },
+        "asks": {
+            "count": 7,
+            "qty": 119963.5131,
+            "value": 104485.98180993
+        }
+    },
+    "EFI-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "BTC-EUR": {
+        "bids": {
+            "count": 40,
+            "qty": 25.66157774,
+            "value": 390582.08491153934
+        },
+        "asks": {
+            "count": 39,
+            "qty": 17.39971766,
+            "value": 871159.8702996846
+        }
+    },
+    "USDT-EUR": {
+        "bids": {
+            "count": 14,
+            "qty": 171715.00329999998,
+            "value": 171246.57495422
+        },
+        "asks": {
+            "count": 11,
+            "qty": 137796.0266,
+            "value": 139412.25104004
+        }
+    },
+    "DGLD-USD": {
+        "bids": {
+            "count": 9,
+            "qty": 52.42741309,
+            "value": 8105.356078219999
+        },
+        "asks": {
+            "count": 16,
+            "qty": 73.86930962,
+            "value": 11914.921679580202
+        }
+    },
+    "EOS-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "YFI-USDT": {
+        "bids": {
+            "count": 7,
+            "qty": 3.5472996099999996,
+            "value": 19164.105181270603
+        },
+        "asks": {
+            "count": 8,
+            "qty": 2.41122632,
+            "value": 20553.5425006705
+        }
+    },
+    "WLUNA-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "RARE-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "SUSHI-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "RARE-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "COMP-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ENJ-USDT": {
+        "bids": {
+            "count": 3,
+            "qty": 18579.371764,
+            "value": 8499.2890119473
+        },
+        "asks": {
+            "count": 3,
+            "qty": 18434.675544,
+            "value": 8501.5188082794
+        }
+    },
+    "CUSD-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "LTC-PAX": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "MATIC-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "PAX-EUR": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "NEAR-EUR": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "AAVE-USD": {
+        "bids": {
+            "count": 5,
+            "qty": 219.51154935000002,
+            "value": 18590.1560514017
+        },
+        "asks": {
+            "count": 14,
+            "qty": 224.51546187,
+            "value": 19220.5335697398
+        }
+    },
+    "BTC-USDT": {
+        "bids": {
+            "count": 48,
+            "qty": 39.232413179999995,
+            "value": 489821.0270052464
+        },
+        "asks": {
+            "count": 32,
+            "qty": 21.46658204,
+            "value": 1423860.5908761362
+        }
+    },
+    "DOT-GBP": {
+        "bids": {
+            "count": 9,
+            "qty": 6451.62960886,
+            "value": 35490.503824567204
+        },
+        "asks": {
+            "count": 14,
+            "qty": 10351.58612836,
+            "value": 68835.86989072079
+        }
+    },
+    "WLUNA-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ETH-USDT": {
+        "bids": {
+            "count": 19,
+            "qty": 160.74796172,
+            "value": 207540.7714852409
+        },
+        "asks": {
+            "count": 25,
+            "qty": 241.69952202000002,
+            "value": 425326.0990444878
+        }
+    },
+    "SOL-USD": {
+        "bids": {
+            "count": 14,
+            "qty": 943.291018,
+            "value": 31652.817165057415
+        },
+        "asks": {
+            "count": 24,
+            "qty": 978.01697438,
+            "value": 33001.643894666326
+        }
+    },
+    "APE-USDT": {
+        "bids": {
+            "count": 12,
+            "qty": 2447.3374680300003,
+            "value": 11779.752385872373
+        },
+        "asks": {
+            "count": 12,
+            "qty": 2416.9497643000004,
+            "value": 11668.587036611232
+        }
+    },
+    "ZRX-USD": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "ADA-USDC": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "MATIC-USD": {
+        "bids": {
+            "count": 18,
+            "qty": 115296.42247168999,
+            "value": 87136.09277577048
+        },
+        "asks": {
+            "count": 59,
+            "qty": 71539.35786987,
+            "value": 66609.21789942909
+        }
+    },
+    "SUSHI-USD": {
+        "bids": {
+            "count": 7,
+            "qty": 12582.961146050002,
+            "value": 22084.285823055852
+        },
+        "asks": {
+            "count": 19,
+            "qty": 11913.717255110001,
+            "value": 21278.47555209542
+        }
+    },
+    "NEAR-USDT": {
+        "bids": {
+            "count": [],
+            "qty": [],
+            "value": []
+        },
+        "asks": {
+            "count": [],
+            "qty": [],
+            "value": []
+        }
+    },
+    "DAI-USD": {
+        "bids": {
+            "count": 8,
+            "qty": 145484.7288,
+            "value": 145324.80047741
+        },
+        "asks": {
+            "count": 9,
+            "qty": 145262.7143,
+            "value": 145353.07045943002
+        }
+    }
+}
