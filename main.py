@@ -37,6 +37,7 @@ if __name__ == "__main__":
             time.sleep(2)
 
         elif user_response == "1":
+            print("\nDownloading all the statistics. Wait a moment...\n")
             print(blockchain_checker.get_all_symbols_statistics())
             time.sleep(2)
 

@@ -1,4 +1,5 @@
 import os
+from tqdm import tqdm
 from datetime import datetime
 import pandas as pd
 import numpy as np
@@ -152,7 +153,7 @@ class BlockchainChecker:
 
         all_symbols_statistics = dict()
 
-        for symbol in unique_symbol_values:
+        for symbol in tqdm(unique_symbol_values):
 
             response = requests.get(self.l3_endpoint + symbol)
             response_json = response.json()
