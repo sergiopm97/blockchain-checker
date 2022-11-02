@@ -5,6 +5,11 @@ import numpy as np
 
 def get_all_symbols_statistics(l3_endpoint: str, tickers_endpoint: str) -> dict:
 
+    """
+    Get generic statistics of all
+    symbols available within the API
+    """
+
     response = requests.get(tickers_endpoint)
     response_json = response.json()
 
@@ -26,7 +31,6 @@ def get_all_symbols_statistics(l3_endpoint: str, tickers_endpoint: str) -> dict:
         asks_dict = dict
 
         if not bids.empty:
-
             bids["value"] = bids["px"] * bids["qty"]
 
             bids_count = bids.shape[0]
@@ -40,7 +44,6 @@ def get_all_symbols_statistics(l3_endpoint: str, tickers_endpoint: str) -> dict:
             }
 
         else:
-
             bids_dict = {
                 "count": [],
                 "qty": [],
@@ -48,7 +51,6 @@ def get_all_symbols_statistics(l3_endpoint: str, tickers_endpoint: str) -> dict:
             }
 
         if not asks.empty:
-
             asks["value"] = asks["px"] * asks["qty"]
 
             asks_count = asks.shape[0]
@@ -62,7 +64,6 @@ def get_all_symbols_statistics(l3_endpoint: str, tickers_endpoint: str) -> dict:
             }
 
         else:
-
             asks_dict = {
                 "count": [],
                 "qty": [],

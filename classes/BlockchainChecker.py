@@ -9,11 +9,22 @@ import json
 
 class BlockchainChecker:
     def __init__(self, l3_endpoint: str, tickers_endpoint: str) -> None:
+
+        """
+        Initialize the application with the required API endpoints
+        and with the internal status of the application itself.
+        """
+
         self.app_on = bool
         self.l3_endpoint = l3_endpoint
         self.tickers_endpoint = tickers_endpoint
 
     def get_symbol_data(self) -> str:
+
+        """
+        Get the bids and asks of a specific
+        symbol as well as basic statistics of both
+        """
 
         symbol = input("Provide a symbol: ")
 
@@ -145,6 +156,11 @@ class BlockchainChecker:
         return "\n[ERROR] The specified symbol was not found"
 
     def get_all_symbols_statistics(self) -> str:
+
+        """
+        Get generic statistics of all
+        symbols available within the API
+        """
 
         response = requests.get(self.tickers_endpoint)
         response_json = response.json()

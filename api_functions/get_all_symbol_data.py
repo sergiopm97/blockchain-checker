@@ -5,6 +5,11 @@ import numpy as np
 
 def get_all_symbol_data(l3_endpoint: str, symbol: str) -> dict or str:
 
+    """
+    Obtain the bids and asks of a specific
+    symbol as well as basic statistics of both
+    """
+
     response = requests.get(l3_endpoint + symbol)
 
     if response.status_code == 200:
