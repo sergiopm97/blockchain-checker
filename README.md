@@ -43,12 +43,25 @@ Install the requirements in the virtual environment
   pip install -r requirements.txt
 ```
 
-## Usage
+## API usage
+
+With the virtual environment activated, run the followind command:
+
+```bash
+uvicorn main:app --reload
+```
+
+This command is going to start the server with the API in the http://127.0.0.1:8000 url. The developed endpoints are the following ones:
+
+- http://127.0.0.1:8000/all -> returns the generic statistics for all the symbols in the Blockchain API
+- http://127.0.0.1:8000/symbols/{symbol} -> return the statistics and the data for an specific symbol
+
+## Terminal interface for local data extraction
 
 With the virtual environment activated, all you have to do is to execute the main.py file:
 
 ```bash
-python .\main.py
+python .\terminal_app.py
 ```
 
 ![Logo](https://raw.githubusercontent.com/sergiopm97/blockchain-checker/main/ui_example.png)
